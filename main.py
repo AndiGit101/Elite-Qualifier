@@ -6,6 +6,7 @@ import sys
 import os
 from pynput.keyboard import Key as key
 from pynput.keyboard import Controller as control
+import math
 
 
 '''
