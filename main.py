@@ -6,7 +6,7 @@ import sys
 import os
 from pynput.keyboard import Key as key
 from pynput.keyboard import Controller as control
-import afinn as sent
+
 
 '''
 Simple chat program with Bits, a simple chatbot made in python named Bits for casual user
@@ -284,14 +284,7 @@ def bot_chat():
 
 
 
-
-			
-
-
-
-
 		##Ending##
-
 		typing_effect(bot + ":Ahh I really wanted to keep chatting but the time has come to go for me to go. ")
 		typing_effect(bot + ':It has been a pleasure to talk with a human really interesting and cool.')
 		typing_effect(bot + ':Maybe next time you can find me to chat again anytime. Im here for any service.')
@@ -301,6 +294,5 @@ def bot_chat():
 ################################################################################################################
 #################################  MAIN METHOD TO RUN THE WHOLE SCRIPT  ########################################
 ################################################################################################################
-
 if __name__ == "__main__":
 	bot_chat()
