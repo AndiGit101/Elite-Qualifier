@@ -1,4 +1,5 @@
-# Title
+# Chat Bot 
+*Bits*
 
 Simple (or clever and funny?) description
 
@@ -12,14 +13,15 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+Simple chat bot as a part of the Elite Qualifier Project for Elite-101.
 
-## Install
+## Install(Description)
 
-These are the steps to setup your local environment to run this application.
+Simple chat bot, Bits, interacts with the user asking questions and giving options to the users to do.Not powered by Artificial Intelligience.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Installed packages and libraries for project and can be runned from Repl.it virtual
+environment.
 
-### Any optional sections
+## Any optional sections
