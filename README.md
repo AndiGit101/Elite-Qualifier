@@ -11,7 +11,7 @@ Simple (or clever and funny?) description
 
 - [Usage](#usage)
 
-## Background
+## Background(About the bot Bits)
 
 Simple chat bot as a part of the Elite Qualifier Project for Elite-101.
 
