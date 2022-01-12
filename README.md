@@ -13,11 +13,12 @@ Simple (or clever and funny?) description
 
 ## Background(About the bot Bits)
 
-Simple chat bot as a part of the Elite Qualifier Project for Elite-101.
+Simple chat bot as a part of the Elite Qualifier Project for Elite-101. Made in Python .
 
 ## Install(Description)
 
 Simple chat bot, Bits, interacts with the user asking questions and giving options to the users to do.Not powered by Artificial Intelligience.
+The 
 
 ## Usage
 
