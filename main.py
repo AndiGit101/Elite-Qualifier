@@ -1,3 +1,10 @@
+'''
+Simple chat program with Bits, a simple chatbot made in python named Bits for casual user
+interaction.
+Project created for Code2College Elite101 class and internship/interview preperation.
+'''
+
+##Library and Modeles used for the chatbot project
 import random
 import os 
 from random import randint 
@@ -8,12 +15,6 @@ from pynput.keyboard import Key as key
 from pynput.keyboard import Controller as control
 import math
 
-
-'''
-Simple chat program with Bits, a simple chatbot made in python named Bits for casual user
-interaction.
-Project created for Code2College Elite101 class and internship/interview preperation
-'''
 
 bot = "Bits"
 
